@@ -1,5 +1,3 @@
-This simple Concole Chat Client is for testing with your own SignalR server/application, to test if it can recieve messages externaly.
-remember to change the adresses in appsettings.json.
+Denna enkla Console Chat Client är till för testning med din egen SignalR-server/applikation, för att testa om den kan ta emot meddelanden externt. Kom ihåg att ändra adresserna i appsettings.json.
 
-Here is my signalR MVC Application:
-https://github.com/Boundless-State/ChatWebAppSignalR
+Här är min SignalR MVC-applikation: https://github.com/Boundless-State/ChatWebAppSignalR
